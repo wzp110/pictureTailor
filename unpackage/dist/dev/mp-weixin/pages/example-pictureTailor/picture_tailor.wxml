@@ -1,0 +1,2 @@
+<import src="./picture_tailor.vue.wxml" />
+    <template is="c59b13f2" data="{{ ...$root['0'], $root }}"/>
